@@ -1,0 +1,26 @@
+C:\Users\yuris\Desktop\Exercicios de fixação\bin\Debug\netcoreapp3.1\Exercicios de fixação.exe
+C:\Users\yuris\Desktop\Exercicios de fixação\bin\Debug\netcoreapp3.1\Exercicios de fixação.deps.json
+C:\Users\yuris\Desktop\Exercicios de fixação\bin\Debug\netcoreapp3.1\Exercicios de fixação.runtimeconfig.json
+C:\Users\yuris\Desktop\Exercicios de fixação\bin\Debug\netcoreapp3.1\Exercicios de fixação.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\Exercicios de fixação\bin\Debug\netcoreapp3.1\Exercicios de fixação.dll
+C:\Users\yuris\Desktop\Exercicios de fixação\bin\Debug\netcoreapp3.1\Exercicios de fixação.pdb
+C:\Users\yuris\Desktop\Exercicios de fixação\obj\Debug\netcoreapp3.1\Exercicios de fixação.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\Exercicios de fixação\obj\Debug\netcoreapp3.1\Exercicios de fixação.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\Exercicios de fixação\obj\Debug\netcoreapp3.1\Exercicios de fixação.AssemblyInfo.cs
+C:\Users\yuris\Desktop\Exercicios de fixação\obj\Debug\netcoreapp3.1\Exercicios de fixação.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\Exercicios de fixação\obj\Debug\netcoreapp3.1\Exercicios de fixação.dll
+C:\Users\yuris\Desktop\Exercicios de fixação\obj\Debug\netcoreapp3.1\Exercicios de fixação.pdb
+C:\Users\yuris\Desktop\Exercicios de fixação\obj\Debug\netcoreapp3.1\Exercicios de fixação.genruntimeconfig.cache
+C:\Users\yuris\Desktop\Exercicios de fixação -2\bin\Debug\netcoreapp3.1\Exercicios de fixação.exe
+C:\Users\yuris\Desktop\Exercicios de fixação -2\bin\Debug\netcoreapp3.1\Exercicios de fixação.deps.json
+C:\Users\yuris\Desktop\Exercicios de fixação -2\bin\Debug\netcoreapp3.1\Exercicios de fixação.runtimeconfig.json
+C:\Users\yuris\Desktop\Exercicios de fixação -2\bin\Debug\netcoreapp3.1\Exercicios de fixação.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\Exercicios de fixação -2\bin\Debug\netcoreapp3.1\Exercicios de fixação.dll
+C:\Users\yuris\Desktop\Exercicios de fixação -2\bin\Debug\netcoreapp3.1\Exercicios de fixação.pdb
+C:\Users\yuris\Desktop\Exercicios de fixação -2\obj\Debug\netcoreapp3.1\Exercicios de fixação.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\Exercicios de fixação -2\obj\Debug\netcoreapp3.1\Exercicios de fixação.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\Exercicios de fixação -2\obj\Debug\netcoreapp3.1\Exercicios de fixação.AssemblyInfo.cs
+C:\Users\yuris\Desktop\Exercicios de fixação -2\obj\Debug\netcoreapp3.1\Exercicios de fixação.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\Exercicios de fixação -2\obj\Debug\netcoreapp3.1\Exercicios de fixação.dll
+C:\Users\yuris\Desktop\Exercicios de fixação -2\obj\Debug\netcoreapp3.1\Exercicios de fixação.pdb
+C:\Users\yuris\Desktop\Exercicios de fixação -2\obj\Debug\netcoreapp3.1\Exercicios de fixação.genruntimeconfig.cache
